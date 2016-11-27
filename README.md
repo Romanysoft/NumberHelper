@@ -16,6 +16,6 @@ Submit a report [here](https://github.com/Romanysoft/NumberHelper/issues/new) if
 ### How to use:
 
 ### License:
-Pretty much the BSD license, just don't repackage it and call it your own please!
+Pretty much the GPL-3.0 license, just don't repackage it and call it your own please!
 
 Also if you do make some changes, feel free to make a pull request and help make things more awesome!
